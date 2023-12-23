@@ -3,7 +3,8 @@
 - 🔭 I’m currently building the backend for a health app (SleepWakeRegulate) with Next.js and SQL  
 - 📫 How to reach me: georgettedkoo@gmail.com  
 - 😄 Pronouns: she/her  
-- ⚡ Fun fact: I like cataloging my life and the old internet (blogs). One artist that inspires me is: https://socks-studio.com/2016/03/27/everything-i-have-and-other-works-by-simon-evans
+- ⚡ Fun fact: I like cataloging my life and the old internet (blogs).
+- 🌱 One artist that inspires me is: https://socks-studio.com/2016/03/27/everything-i-have-and-other-works-by-simon-evans
 <!--
 **gdkoo/gdkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
