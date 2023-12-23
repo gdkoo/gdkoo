@@ -1,9 +1,9 @@
 ### Hello there, I'm Georgette 🧜‍♀️
 
-🔭 I’m currently building the backend for a health app (SleepWakeRegulate) with Next.js and SQL
-📫 How to reach me: georgettedkoo@gmail.com
-😄 Pronouns: she/her
-⚡ Fun fact: I like cataloging my life and reading blogs. One artist that inspires me is: https://onkawara.co.uk/ 
+🔭 I’m currently building the backend for a health app (SleepWakeRegulate) with Next.js and SQL  
+📫 How to reach me: georgettedkoo@gmail.com  
+😄 Pronouns: she/her  
+⚡ Fun fact: I like cataloging my life and reading blogs. One artist that inspires me is: https://onkawara.co.uk/  
 <!--
 **gdkoo/gdkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
