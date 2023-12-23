@@ -1,4 +1,4 @@
-### Hello there, I'm Georgette 🧜‍♀️
+### Hello there! I'm Georgette 👯
 
 - 🔭 I’m currently building the backend for a health app (SleepWakeRegulate) with Next.js and SQL  
 - 📫 How to reach me: georgettedkoo@gmail.com  
